@@ -33,14 +33,12 @@ QuickBite is a modern and user-friendly food ordering app that offers a seamless
 
 ## 📱 Screenshots
 
-### Dark Mode  
-![Homepage - Light Mode](/quickbite_darkmode.png)  
+### Dark Mode & Light Mode
+![Homepage - Light Mode](/quickbite_darkmode.png) | ![Homepage - Light Mode](/quickbite_main.png)
 
-### Light Mode  
-![Homepage - Light Mode](/quickbite_main.png)  
-![Cart Page ](/quickbite_checkout.png)
-![Food Page ](/quickbite_foodpage.png)
-![Receipt Page ](/quickbite_receipt.png)
+### Other Pages  
+![Cart Page ](/quickbite_checkout.png) | ![Food Page ](/quickbite_foodpage.png)
+![Receipt Page ](/quickbite_receipt.png) | ![Payment Page ](/quickbite_payment.png)
 
 ---
 
