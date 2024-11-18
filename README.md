@@ -1,16 +1,67 @@
-# quickbite
+# 🍔 QuickBite 
 
-A new Flutter project.
+QuickBite is a modern and user-friendly food ordering app that offers a seamless experience for browsing, customizing, and purchasing delicious meals. Designed with multiple screens and a sleek UI (available in both dark and light modes), QuickBite makes food ordering a breeze.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 1. **Homepage**
+- Browse through a wide variety of food categories.
+- Sleek and responsive design in **dark** and **light** modes.
+- Easy navigation to explore your favorite dishes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. **Food Item Screen**
+- View detailed information about each food item.
+- Customize your meal with **additional toppings**.
+- Add items directly to your cart with the **Add to Cart** button.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. **Cart Page**
+- Review all selected items and their details.
+- Update quantities or remove items as needed.
+- Proceed to payment with a simple checkout flow.
+
+### 4. **Payment Page**
+- Complete your order with a secure payment process.
+- Straightforward and hassle-free checkout experience.
+
+### 5. **Receipt Page**
+- View a dummy receipt for your completed transaction.
+- Confirmation details of the order displayed.
+
+---
+
+## 📱 Screenshots
+
+### Dark Mode  
+![Homepage - Light Mode](/quickbite_darkmode.png)  
+
+### Light Mode  
+![Homepage - Light Mode](/quickbite_main.png)  
+![Cart Page ](/quickbite_checkout.png)
+![Food Page ](/quickbite_foodpage.png)
+![Receipt Page ](/quickbite_receipt.png)
+
+---
+
+## 🔧 Tech Stack
+
+- **Flutter**: Cross-platform app development framework.
+- **Dart**: Programming language for Flutter.
+- **Firebase** (Optional): Backend services for user authentication and database management.
+- **GetX** or **Provider**: For state management.
+- **Payment Gateway Integration**: For handling payments (Stripe, Razorpay, etc.).
+- **Custom Themes**: Light and Dark mode support.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK installed on your machine.
+- A connected device or emulator for testing.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/QuickBite.git
